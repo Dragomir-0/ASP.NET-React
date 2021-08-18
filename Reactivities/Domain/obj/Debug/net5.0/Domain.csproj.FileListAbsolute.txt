@@ -1,0 +1,12 @@
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\bin\Debug\net5.0\Domain.deps.json
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\bin\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\bin\Debug\net5.0\ref\Domain.dll
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\bin\Debug\net5.0\Domain.pdb
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.dll
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\ref\Domain.dll
+C:\xampp\htdocs\ASP Course\Reactivities\Domain\obj\Debug\net5.0\Domain.pdb
